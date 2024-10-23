@@ -61,8 +61,8 @@ Sou um desenvolvedor front-end apaixonado por criar soluções elegantes e inova
 
 ### 🐍 Animação
 
-<img src="https://raw.githubusercontent.com/samuelbessa/samuelbessa/output/snake.svg" alt="Snake animation" />
 
 ---
 
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh0aTYyNzlhMHVjc3A0dHV4bzB3ODN1bjZlZThnanhzNm1xeG1zYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6vXTpomeZEyxufGU/giphy.gif" alt="Coding animation" />
+<img align="left" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZoOThlMXYzeTM3bTdpZzU1eG5mb3NmcmMwZDI2bGxoN2d1aXoydSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ffvJ4xfAniFoqHUQoO/giphy.gif" alt="Coding animation" />
+<img align="right" height="300" src="https://media.giphy.com/media/t1j3KW8BXTzccCLdNb/giphy.gif?cid=790b7611uvh98e1v3y37m7ig55xnfosfrc0d26llh7guiz2u&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Coding animation" />
